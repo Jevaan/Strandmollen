@@ -1,0 +1,8 @@
+bin\Debug\ModemComm.exe
+bin\Debug\ModemComm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ModemComm.Form1.resources
+obj\Debug\ModemComm.Properties.Resources.resources
+obj\Debug\ModemComm.csproj.GenerateResource.Cache
+obj\Debug\ModemComm.exe
+obj\Debug\ModemComm.pdb

@@ -1,0 +1,2 @@
+Z:\Visual Studio Projects\Projects\PocketPC Transfer\TCP Server (PC)\obj\Debug\Flaske Server.exe
+Z:\Visual Studio Projects\Projects\PocketPC Transfer\TCP Server (PC)\obj\Debug\Flaske Server.pdb

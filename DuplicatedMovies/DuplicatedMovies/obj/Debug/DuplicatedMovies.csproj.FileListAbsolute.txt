@@ -1,0 +1,10 @@
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\bin\Debug\DuplicatedMovies.exe.config
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\bin\Debug\DuplicatedMovies.exe
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\bin\Debug\DuplicatedMovies.pdb
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.DupMovie.resources
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.exe
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.pdb
+c:\users\ja\documents\visual studio 2012\Projects\DuplicatedMovies\DuplicatedMovies\obj\Debug\DuplicatedMovies.CompareMovies.resources

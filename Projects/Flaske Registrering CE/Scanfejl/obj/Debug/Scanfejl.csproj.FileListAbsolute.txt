@@ -1,0 +1,11 @@
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\bin\Debug\Scanfejl.exe
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\bin\Debug\Scanfejl.pdb
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\bin\Debug\System.Data.SqlServerCe.dll
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\bin\Debug\Symbol.xml
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\bin\Debug\Symbol.Barcode.xml
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\obj\Debug\Scanfejl.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\obj\Debug\Scanfejl.ReaderForm.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\obj\Debug\Scanfejl.csproj.GenerateResource.Cache
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\obj\Debug\Scanfejl.exe
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Scanfejl\obj\Debug\Scanfejl.pdb

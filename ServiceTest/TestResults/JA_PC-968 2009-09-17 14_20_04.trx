@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ff94d3a3-76cf-4719-979d-67e43d8a1909" name="JA@PC-968 2009-09-17 14:20:04" runUser="STRANDMOLLEN\JA" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="9adddec0-bc58-49fb-ad56-6f9f7bd407e8">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestResults\JA_PC-968 2009-09-17 14_20_04">
+      <DeploymentItem filename="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="9" executed="9" error="0" failed="9" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PC-968" outcome="Warning" timestamp="2009-09-17T14:20:05.4997177+02:00">
+        <Text>Warning: conflict during test run deployment: deployment item 'c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\ServiceTest.exe' directly or indirectly referenced by the test container 'c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll' cannot be deployed to 'ServiceTest.exe' because otherwise the file 'c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\ServiceTest.exe' would overwrite deployment item 'C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe' directly or indirectly referenced by C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2009-09-17T14:20:04.9528917+02:00" queuing="2009-09-17T14:20:06.0309201+02:00" start="2009-09-17T14:20:06.2652741+02:00" finish="2009-09-17T14:20:07.2026901+02:00" />
+  <TestDefinitions>
+    <UnitTest name="Service1SoapClientConstructorTest2" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="544c3393-2f05-bec5-2d82-cffe05832ab3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="afbba4d6-190e-4f13-b519-18b2cfc6594f" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="Service1SoapClientConstructorTest2" />
+    </UnitTest>
+    <UnitTest name="Service1SoapClientConstructorTest3" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="e507b1e5-b027-5c7a-6d58-50509f383a6d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f3195961-33d6-41d4-8eb1-63c4aba1f005" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="Service1SoapClientConstructorTest3" />
+    </UnitTest>
+    <UnitTest name="HelloWorldTest" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="c61a306f-f96d-647e-4819-90489cef8308">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="de1991a0-f1dc-4ce0-8294-48d06a1ccc21" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapTest, TestProject1" name="HelloWorldTest" />
+    </UnitTest>
+    <UnitTest name="Service1SoapClientConstructorTest1" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="8f77d48d-3c4f-8bbb-64fb-24a551d020e4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c5c7395e-6329-4368-b61c-366571c631a9" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="Service1SoapClientConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="GetDataTest" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="36637175-7cd9-425b-90b8-357e80483b6c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b7907cd6-9e3f-456f-a8d6-4ce7eb91c7b8" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapTest, TestProject1" name="GetDataTest" />
+    </UnitTest>
+    <UnitTest name="HelloWorldTest" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="105b3776-2a69-1271-ad0d-bdfaaf70b4f0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ca9e4086-afa4-442d-98f7-1046c2a1e94c" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="HelloWorldTest" />
+    </UnitTest>
+    <UnitTest name="GetDataTest" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="37a98aa0-8a88-8512-c5fb-e0f293179367">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="38b98e6c-3900-4794-b7cc-5a6da2dc424d" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="GetDataTest" />
+    </UnitTest>
+    <UnitTest name="Service1SoapClientConstructorTest4" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="f6d5d1a1-f1fe-4223-f831-3951a26f72fc">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="31b34148-bfb0-49ab-b5a9-56110079405b" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="Service1SoapClientConstructorTest4" />
+    </UnitTest>
+    <UnitTest name="Service1SoapClientConstructorTest" storage="c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\testresults\ja_pc-968 2009-09-17 11_42_14\out\testproject1.dll" id="f842cdad-3c70-0466-8200-096c62028094">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="cfde30f2-c383-4cd4-8dbc-83072da622ef" />
+      <TestMethod codeBase="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Service1SoapClientTest, TestProject1" name="Service1SoapClientConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="105b3776-2a69-1271-ad0d-bdfaaf70b4f0" executionId="ca9e4086-afa4-442d-98f7-1046c2a1e94c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36637175-7cd9-425b-90b8-357e80483b6c" executionId="b7907cd6-9e3f-456f-a8d6-4ce7eb91c7b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37a98aa0-8a88-8512-c5fb-e0f293179367" executionId="38b98e6c-3900-4794-b7cc-5a6da2dc424d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="544c3393-2f05-bec5-2d82-cffe05832ab3" executionId="afbba4d6-190e-4f13-b519-18b2cfc6594f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8f77d48d-3c4f-8bbb-64fb-24a551d020e4" executionId="c5c7395e-6329-4368-b61c-366571c631a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c61a306f-f96d-647e-4819-90489cef8308" executionId="de1991a0-f1dc-4ce0-8294-48d06a1ccc21" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e507b1e5-b027-5c7a-6d58-50509f383a6d" executionId="f3195961-33d6-41d4-8eb1-63c4aba1f005" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f6d5d1a1-f1fe-4223-f831-3951a26f72fc" executionId="31b34148-bfb0-49ab-b5a9-56110079405b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f842cdad-3c70-0466-8200-096c62028094" executionId="cfde30f2-c383-4cd4-8dbc-83072da622ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ca9e4086-afa4-442d-98f7-1046c2a1e94c" testId="105b3776-2a69-1271-ad0d-bdfaaf70b4f0" testName="HelloWorldTest" computerName="PC-968" duration="00:00:00.4507767" startTime="2009-09-17T14:20:06.3277685+02:00" endTime="2009-09-17T14:20:07.0620777+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.HelloWorldTest threw exception:  System.InvalidOperationException: Der blev ikke fundet et standardslutpunktselement i klientkonfigurationssektionen ServiceModel, der refererer til kontrakten WebService1.Service1Soap. Dette kan skyldes, at der ikke blev fundet en konfigurationsfil til programmet, eller at der ikke blev fundet nogen slutpunktselementer i klientelementet, der stemmer overens med kontrakten..</Message>
+          <StackTrace>    ved System.ServiceModel.Description.ConfigLoader.LoadChannelBehaviors(ServiceEndpoint serviceEndpoint, String configurationName)
+   ved System.ServiceModel.ChannelFactory.ApplyConfiguration(String configurationName)
+   ved System.ServiceModel.ChannelFactory.InitializeEndpoint(String configurationName, EndpointAddress address)
+   ved System.ServiceModel.ChannelFactory`1..ctor(String endpointConfigurationName, EndpointAddress remoteAddress)
+   ved System.ServiceModel.EndpointTrait`1.CreateSimplexFactory()
+   ved System.ServiceModel.EndpointTrait`1.CreateChannelFactory()
+   ved System.ServiceModel.ClientBase`1.CreateChannelFactoryRef(EndpointTrait`1 endpointTrait)
+   ved System.ServiceModel.ClientBase`1.InitializeChannelFactoryRef()
+   ved System.ServiceModel.ClientBase`1..ctor()
+   ved ServiceTest.WebService1.Service1SoapClient..ctor() i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 36
+   ved TestProject1.Service1SoapClientTest.HelloWorldTest() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 75
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b7907cd6-9e3f-456f-a8d6-4ce7eb91c7b8" testId="36637175-7cd9-425b-90b8-357e80483b6c" testName="GetDataTest" computerName="PC-968" duration="00:00:00.0010555" startTime="2009-09-17T14:20:07.0620777+02:00" endTime="2009-09-17T14:20:07.0620777+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapTest.GetDataTest threw exception:  System.NullReferenceException: Objektreferencen er ikke indstillet til en forekomst af et objekt..</Message>
+          <StackTrace>    ved TestProject1.Service1SoapTest.GetDataTest() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapTest.cs:linje 97
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="38b98e6c-3900-4794-b7cc-5a6da2dc424d" testId="37a98aa0-8a88-8512-c5fb-e0f293179367" testName="GetDataTest" computerName="PC-968" duration="00:00:00.0016487" startTime="2009-09-17T14:20:07.0620777+02:00" endTime="2009-09-17T14:20:07.0620777+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.GetDataTest threw exception:  System.InvalidOperationException: Der blev ikke fundet et standardslutpunktselement i klientkonfigurationssektionen ServiceModel, der refererer til kontrakten WebService1.Service1Soap. Dette kan skyldes, at der ikke blev fundet en konfigurationsfil til programmet, eller at der ikke blev fundet nogen slutpunktselementer i klientelementet, der stemmer overens med kontrakten..</Message>
+          <StackTrace>    ved System.ServiceModel.Description.ConfigLoader.LoadChannelBehaviors(ServiceEndpoint serviceEndpoint, String configurationName)
+   ved System.ServiceModel.ChannelFactory.ApplyConfiguration(String configurationName)
+   ved System.ServiceModel.ChannelFactory.InitializeEndpoint(String configurationName, EndpointAddress address)
+   ved System.ServiceModel.ChannelFactory`1..ctor(String endpointConfigurationName, EndpointAddress remoteAddress)
+   ved System.ServiceModel.EndpointTrait`1.CreateSimplexFactory()
+   ved System.ServiceModel.EndpointTrait`1.CreateChannelFactory()
+   ved System.ServiceModel.ClientBase`1.CreateChannelFactoryRef(EndpointTrait`1 endpointTrait)
+   ved System.ServiceModel.ClientBase`1.InitializeChannelFactoryRef()
+   ved System.ServiceModel.ClientBase`1..ctor()
+   ved ServiceTest.WebService1.Service1SoapClient..ctor() i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 36
+   ved TestProject1.Service1SoapClientTest.GetDataTest() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="afbba4d6-190e-4f13-b519-18b2cfc6594f" testId="544c3393-2f05-bec5-2d82-cffe05832ab3" testName="Service1SoapClientConstructorTest2" computerName="PC-968" duration="00:00:00.0709086" startTime="2009-09-17T14:20:07.0777013+02:00" endTime="2009-09-17T14:20:07.1401957+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest2 threw exception:  System.UriFormatException: Ugyldig URI: URI'en er tom..</Message>
+          <StackTrace>    ved System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   ved System.Uri..ctor(String uriString)
+   ved System.ServiceModel.EndpointAddress..ctor(String uri)
+   ved System.ServiceModel.ClientBase`1..ctor(String endpointConfigurationName, String remoteAddress)
+   ved ServiceTest.WebService1.Service1SoapClient..ctor(String endpointConfigurationName, String remoteAddress) i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 43
+   ved TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest2() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 126
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c5c7395e-6329-4368-b61c-366571c631a9" testId="8f77d48d-3c4f-8bbb-64fb-24a551d020e4" testName="Service1SoapClientConstructorTest1" computerName="PC-968" duration="00:00:00.0026728" startTime="2009-09-17T14:20:07.1401957+02:00" endTime="2009-09-17T14:20:07.1558193+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest1 threw exception:  System.ArgumentNullException: En værdi må ikke være null.
+Parameternavn: binding.</Message>
+          <StackTrace>    ved System.ServiceModel.ClientBase`1..ctor(Binding binding, EndpointAddress remoteAddress)
+   ved ServiceTest.WebService1.Service1SoapClient..ctor(Binding binding, EndpointAddress remoteAddress) i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 51
+   ved TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest1() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 138
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="de1991a0-f1dc-4ce0-8294-48d06a1ccc21" testId="c61a306f-f96d-647e-4819-90489cef8308" testName="HelloWorldTest" computerName="PC-968" duration="00:00:00.0007503" startTime="2009-09-17T14:20:07.1558193+02:00" endTime="2009-09-17T14:20:07.1558193+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapTest.HelloWorldTest threw exception:  System.NullReferenceException: Objektreferencen er ikke indstillet til en forekomst af et objekt..</Message>
+          <StackTrace>    ved TestProject1.Service1SoapTest.HelloWorldTest() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapTest.cs:linje 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f3195961-33d6-41d4-8eb1-63c4aba1f005" testId="e507b1e5-b027-5c7a-6d58-50509f383a6d" testName="Service1SoapClientConstructorTest3" computerName="PC-968" duration="00:00:00.0012467" startTime="2009-09-17T14:20:07.1558193+02:00" endTime="2009-09-17T14:20:07.1558193+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest3 threw exception:  System.InvalidOperationException: Der blev ikke fundet et standardslutpunktselement i klientkonfigurationssektionen ServiceModel, der refererer til kontrakten WebService1.Service1Soap. Dette kan skyldes, at der ikke blev fundet en konfigurationsfil til programmet, eller at der ikke blev fundet nogen slutpunktselementer i klientelementet, der stemmer overens med kontrakten..</Message>
+          <StackTrace>    ved System.ServiceModel.Description.ConfigLoader.LoadChannelBehaviors(ServiceEndpoint serviceEndpoint, String configurationName)
+   ved System.ServiceModel.ChannelFactory.ApplyConfiguration(String configurationName)
+   ved System.ServiceModel.ChannelFactory.InitializeEndpoint(String configurationName, EndpointAddress address)
+   ved System.ServiceModel.ChannelFactory`1..ctor(String endpointConfigurationName, EndpointAddress remoteAddress)
+   ved System.ServiceModel.EndpointTrait`1.CreateSimplexFactory()
+   ved System.ServiceModel.EndpointTrait`1.CreateChannelFactory()
+   ved System.ServiceModel.ClientBase`1.CreateChannelFactoryRef(EndpointTrait`1 endpointTrait)
+   ved System.ServiceModel.ClientBase`1.InitializeChannelFactoryRef()
+   ved System.ServiceModel.ClientBase`1..ctor()
+   ved ServiceTest.WebService1.Service1SoapClient..ctor() i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 36
+   ved TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest3() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 114
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="31b34148-bfb0-49ab-b5a9-56110079405b" testId="f6d5d1a1-f1fe-4223-f831-3951a26f72fc" testName="Service1SoapClientConstructorTest4" computerName="PC-968" duration="00:00:00.0024411" startTime="2009-09-17T14:20:07.1558193+02:00" endTime="2009-09-17T14:20:07.1558193+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest4 threw exception:  System.InvalidOperationException: Slutpunktselementet  og kontrakten WebService1.Service1Soap blev ikke fundet i klientkonfigurationssektionen ServiceModel. Dette kan skyldes, at der ikke blev fundet en konfigurationsfil til programmet, eller at der ikke blev fundet nogen slutpunktselementer i klientelementet, der stemmer overens med navnet..</Message>
+          <StackTrace>    ved System.ServiceModel.Description.ConfigLoader.LoadChannelBehaviors(ServiceEndpoint serviceEndpoint, String configurationName)
+   ved System.ServiceModel.ChannelFactory.ApplyConfiguration(String configurationName)
+   ved System.ServiceModel.ChannelFactory.InitializeEndpoint(String configurationName, EndpointAddress address)
+   ved System.ServiceModel.ChannelFactory`1..ctor(String endpointConfigurationName, EndpointAddress remoteAddress)
+   ved System.ServiceModel.EndpointTrait`1.CreateSimplexFactory()
+   ved System.ServiceModel.EndpointTrait`1.CreateChannelFactory()
+   ved System.ServiceModel.ClientBase`1.CreateChannelFactoryRef(EndpointTrait`1 endpointTrait)
+   ved System.ServiceModel.ClientBase`1.InitializeChannelFactoryRef()
+   ved System.ServiceModel.ClientBase`1..ctor(String endpointConfigurationName)
+   ved ServiceTest.WebService1.Service1SoapClient..ctor(String endpointConfigurationName) i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 39
+   ved TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest4() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 104
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cfde30f2-c383-4cd4-8dbc-83072da622ef" testId="f842cdad-3c70-0466-8200-096c62028094" testName="Service1SoapClientConstructorTest" computerName="PC-968" duration="00:00:00.0022096" startTime="2009-09-17T14:20:07.1714429+02:00" endTime="2009-09-17T14:20:07.1714429+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest threw exception:  System.ArgumentNullException: En værdi må ikke være null.
+Parameternavn: remoteAddress.</Message>
+          <StackTrace>    ved System.ServiceModel.ClientBase`1..ctor(String endpointConfigurationName, EndpointAddress remoteAddress)
+   ved ServiceTest.WebService1.Service1SoapClient..ctor(String endpointConfigurationName, EndpointAddress remoteAddress) i c:\documents and settings\ja\dokumenter\visual studio 2008\projects\servicetest\servicetest\service references\webservice1\reference.cs:linje 47
+   ved TestProject1.Service1SoapClientTest.Service1SoapClientConstructorTest() i C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\Service1SoapClientTest.cs:linje 150
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,14 @@
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\bin\Debug\Flaske Registrering CE.ico
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\bin\Debug\Config.xml
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\bin\Debug\Flaske Registrering CE.exe
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\bin\Debug\Flaske Registrering CE.pdb
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\bin\Debug\System.Data.SqlServerCe.dll
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\FlaskeRegistreringCE.Battery.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\FlaskeRegistreringCE.BattReg.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\FlaskeRegistreringCE.FlRegCE.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\FlaskeRegistreringCE.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\FlaskeRegistreringCE.Settings.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\Flaske Registrering CE.csproj.GenerateResource.Cache
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\Flaske Registrering CE.exe
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE\obj\Debug\Flaske Registrering CE.pdb

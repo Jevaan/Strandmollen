@@ -1,0 +1,33 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\CE_Network.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\CE_Network.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Form1.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Properties.Resources.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.csproj.GenerateResource.Cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Symbol.Barcode.dll
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Symbol.dll
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Symbol.xml
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Symbol.Barcode.xml
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.BarcodeScan.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.BatchScan.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Setup.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Print.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.BarcodeTest.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\CE_Network.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\CE_Network.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\ResolveAssemblyReference.cache
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.BarcodeScan.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.BarcodeTest.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.BatchScan.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Form1.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Print.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Properties.Resources.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.Setup.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.csproj.GenerateResource.Cache
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\obj\Debug\CE_Network.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Barcode.sdf
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Intermec.DataCollection.CF3.5.dll
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\CE_Network\CE_Network\bin\Debug\Intermec.DataCollection.CF3.5.xml

@@ -1,0 +1,7 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ComPort\ComPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ComPort\ComPort\obj\Debug\ComPort.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ComPort\ComPort\obj\Debug\ComPort.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ComPort\ComPort\obj\Debug\ComPort.pdb

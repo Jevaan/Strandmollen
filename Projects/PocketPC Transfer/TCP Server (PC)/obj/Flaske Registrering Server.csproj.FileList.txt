@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TCP_Server__PC_.Form1.resources
+obj\Debug\TCP_Server__PC_.Properties.Resources.resources
+obj\Debug\Flaske Registrering Server.csproj.GenerateResource.Cache
+bin\Debug\Flaske Server.exe
+bin\Debug\Flaske Server.pdb
+obj\Debug\Flaske Server.exe
+obj\Debug\Flaske Server.pdb

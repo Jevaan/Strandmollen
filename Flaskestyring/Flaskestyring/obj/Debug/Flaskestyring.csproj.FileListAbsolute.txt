@@ -1,0 +1,16 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.Form1.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.Properties.Resources.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.csproj.GenerateResource.Cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\bin\Debug\Flaskestyring.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\bin\Debug\Flaskestyring.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\bin\Debug\Flaskestyring.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\bin\Debug\Flaskestyring.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\ResolveAssemblyReference.cache
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.Form1.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.Properties.Resources.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.csproj.GenerateResource.Cache
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\Flaskestyring\Flaskestyring\obj\Debug\Flaskestyring.pdb

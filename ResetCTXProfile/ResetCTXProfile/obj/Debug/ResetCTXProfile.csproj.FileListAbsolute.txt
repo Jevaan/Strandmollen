@@ -1,0 +1,9 @@
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\bin\Debug\ResetCTXProfile.exe.config
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\bin\Debug\ResetCTXProfile.exe
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\bin\Debug\ResetCTXProfile.pdb
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\obj\Debug\ResetCTXProfile.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\obj\Debug\ResetCTXProfile.rstctx.resources
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\obj\Debug\ResetCTXProfile.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\obj\Debug\ResetCTXProfile.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\obj\Debug\ResetCTXProfile.exe
+c:\users\ja\documents\visual studio 2012\Projects\ResetCTXProfile\ResetCTXProfile\obj\Debug\ResetCTXProfile.pdb

@@ -1,0 +1,8 @@
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.exe
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.pdb
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\bin\Debug\Batchmærke.exe
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\bin\Debug\Batchmærke.pdb
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.Form1.resources
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.csproj.GenerateResource.Cache

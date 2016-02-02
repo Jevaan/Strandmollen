@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Batchmærke">
+</Property><Property Name="Solution File" Value="Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke.sln">
+</Property><Property Name="User Options File" Value="Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke.suo">
+</Property><Property Name="Date" Value="9. juni 2009">
+</Property><Property Name="Time" Value="09:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Batchmærke.sln" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Batchmærke.suo" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke.suo">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Batchmærke.csproj">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Form1.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Form1.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Program.cs">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Properties\Settings.settings" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Form1.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Batchmærke\Backup\Batchmærke\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Batchmærke.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Batchmærke.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,23 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Flaske Registrering CE.csproj.GenerateResource.Cache
+bin\Debug\Flaske Registrering CE.exe
+bin\Debug\Flaske Registrering CE.pdb
+obj\Debug\FlaskeRegistreringCE.Properties.Resources.resources
+obj\Debug\Flaske Registrering CE.exe
+obj\Debug\Flaske Registrering CE.pdb
+bin\Release\Flaske Registrering CE.exe
+bin\Release\Flaske Registrering CE.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FlaskeRegistreringCE.Form1.resources
+obj\Release\FlaskeRegistreringCE.Properties.Resources.resources
+obj\Release\Flaske Registrering CE.csproj.GenerateResource.Cache
+obj\Release\Flaske Registrering CE.exe
+obj\Release\Flaske Registrering CE.pdb
+obj\Release\FlaskeRegistreringCE.Settings.resources
+obj\Debug\FlaskeRegistreringCE.Settings.resources
+bin\Release\Flaske Registrering CE.ico
+bin\Debug\Flaske Registrering CE.ico
+obj\Debug\FlaskeRegistreringCE.FlRegCE.resources
+obj\Debug\FlaskeRegistreringCE.Battery.resources
+obj\Debug\FlaskeRegistreringCE.BattReg.resources
+bin\Debug\Config.xml

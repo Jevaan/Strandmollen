@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Export_CE.Export.resources
+obj\Debug\Export_CE.Properties.Resources.resources
+obj\Debug\Export CE.csproj.GenerateResource.Cache
+bin\Debug\Export CE.exe
+bin\Debug\Export CE.pdb
+bin\Debug\System.Data.SqlServerCe.dll
+bin\Debug\System.Data.SqlServerCe.xml
+obj\Debug\Export CE.exe
+obj\Debug\Export CE.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.dll
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\TestProject1.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\ServiceTest.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\bin\Debug\ServiceTest.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\obj\Debug\TestProject1.dll
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\TestProject1\obj\Debug\TestProject1.pdb

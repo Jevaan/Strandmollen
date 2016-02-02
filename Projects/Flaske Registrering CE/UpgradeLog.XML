@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Flaske Registrering CE">
+</Property><Property Name="Solution File" Value="Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE.sln">
+</Property><Property Name="User Options File" Value="Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Flaske Registrering CE.suo">
+</Property><Property Name="Date" Value="8. juli 2009">
+</Property><Property Name="Time" Value="11:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Flaske Registrering CE.sln" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Flaske Registrering CE.suo" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE.suo">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Flaske Registrering CE.csproj">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Flaske Registrering CE.csproj.user">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Battery.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Battery.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Battery.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Battery.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\BattReg.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\BattReg.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\BattReg.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\BattReg.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Form1.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Form1.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Program.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Settings.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Settings.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Config.xml" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Config.xml">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.ico" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Flaske Registrering CE.ico">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Battery.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Battery.resx">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\BattReg.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\BattReg.resx">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Form1.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Settings.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Flaske Registrering CE\Settings.resx">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Import CE.csproj">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Import CE.csproj.user">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Import.cs">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Import.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Program.cs">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Import.resx">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Import CE\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export CE.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Export CE.csproj">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export CE.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Export CE.csproj.user">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Export.cs">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Export.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Program.cs">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Export.resx">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Export CE\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export CE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Export CE" Source="Export CE\Export CE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Reset Database.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Reset Database.csproj">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Reset Database.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Reset Database.csproj.user">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Form1.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Form1.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Program.cs">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Form1.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Reset Database\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Reset Database.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Reset Database" Source="Reset Database\Reset Database.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Fejl Registrering.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Fejl Registrering.csproj">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Fejl Registrering.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Fejl Registrering.csproj.user">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Form1.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Form1.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Form1.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\DeviceApplication1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Fejl Registrering.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Fejl Registrering" Source="DeviceApplication1\Fejl Registrering.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Scanfejl.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\Scanfejl.csproj">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Scanfejl.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\Scanfejl.csproj.user">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\ReaderForm.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\ReaderForm.cs">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\ReaderForm.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\ReaderForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\Program.cs">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\ReaderForm.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Backup\Scanfejl\ReaderForm.resx">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Scanfejl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Scanfejl" Source="Scanfejl\Scanfejl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Flaske Registrering CE.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Flaske Registrering CE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Battery.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Battery.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\BattReg.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Flaske Registrering CE" Source="Flaske Registrering CE\BattReg.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Settings.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Settings.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Flaske Registrering CE" Source="Flaske Registrering CE\Flaske Registrering CE.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Import CE" Source="..\Import CE\Import CE\Import.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Import CE" Source="..\Import CE\Import CE\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Import CE" Source="..\Import CE\Import CE\Import CE.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Export CE" Source="Export CE\Export.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Export CE" Source="Export CE\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export CE.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Export CE" Source="Export CE\Export CE.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Reset Database" Source="Reset Database\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Reset Database" Source="Reset Database\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Reset Database.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Reset Database" Source="Reset Database\Reset Database.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Fejl Registrering" Source="DeviceApplication1\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Fejl Registrering" Source="DeviceApplication1\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Fejl Registrering.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Fejl Registrering" Source="DeviceApplication1\Fejl Registrering.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Scanfejl" Source="Scanfejl\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\ReaderForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Scanfejl" Source="Scanfejl\ReaderForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Scanfejl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Scanfejl" Source="Scanfejl\Scanfejl.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event></UpgradeLog>

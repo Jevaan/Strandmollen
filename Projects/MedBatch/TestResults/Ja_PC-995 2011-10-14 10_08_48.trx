@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="aa788fef-50e2-4ce7-b2ba-8f0ff7a17c91" name="Ja@PC-995 2011-10-14 10:08:48" runUser="STRANDMOLLEN\Ja" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="310dc2cf-7a27-43da-8803-7cf402a5e94e">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="Z:\Visual Studio Projects\Projects\MedBatch\TestResults\Ja_PC-995 2011-10-14 10_08_48">
+      <DeploymentItem filename="Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\bin\Debug\MedBatch.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PC-995" outcome="Error" timestamp="2011-10-14T10:08:48.4307801+02:00">
+        <Text>Failed to queue test run 'Ja@PC-995 2011-10-14 10:08:48': Test Run deployment issue: The location of the file or directory 'z:\visual studio projects\projects\medbatch\testsetprinter\bin\debug\testsetprinter.dll' is not trusted.</Text>
+        <Exception>Microsoft.VisualStudio.TestTools.TestManagement.ExecutionException: Test Run deployment issue: The location of the file or directory 'z:\visual studio projects\projects\medbatch\testsetprinter\bin\debug\testsetprinter.dll' is not trusted.
+   at Microsoft.VisualStudio.TestTools.TestManagement.DeploymentManager.DoDeployment(TestRun run, FileCopyService fileCopyService)
+   at Microsoft.VisualStudio.TestTools.TestManagement.ControllerProxy.SetupTestRun(TestRun run, Boolean isNewTestRun, FileCopyService&amp; fileCopyService)
+   at Microsoft.VisualStudio.TestTools.TestManagement.ControllerProxy.QueueTestRunWorker(Object state)</Exception>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2011-10-14T10:08:48.0277831+02:00" queuing="2011-10-14T10:08:48.0277831+02:00" start="2011-10-14T10:08:48.0277831+02:00" finish="2011-10-14T10:08:48.4307801+02:00" />
+  <TestDefinitions>
+    <UnitTest name="SetPrinterTest" storage="z:\visual studio projects\projects\medbatch\testsetprinter\bin\debug\testsetprinter.dll" id="191c4184-f24d-6ea4-615f-33eea07227e9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="MedBatch.exe" />
+      </DeploymentItems>
+      <TestMethod codeBase="Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\TestSetPrinter.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestSetPrinter.Form1Test, TestSetPrinter" name="SetPrinterTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="191c4184-f24d-6ea4-615f-33eea07227e9" executionId="4fae4012-505c-40bd-9ab2-7c2b7dd17ec8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4fae4012-505c-40bd-9ab2-7c2b7dd17ec8" testId="191c4184-f24d-6ea4-615f-33eea07227e9" testName="SetPrinterTest" computerName="PC-995" duration="00:00:00" startTime="0001-01-01T01:00:00.0000000+01:00" endTime="0001-01-01T01:00:00.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

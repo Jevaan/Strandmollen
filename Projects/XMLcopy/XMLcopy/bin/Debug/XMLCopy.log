@@ -1,0 +1,7 @@
+[Configuration]
+#Source=C:\Windows\,C:\,C:\compaq\
+#Destination=C:\Temp\,C:\Temp\,C:\Temp\
+#Filetype=txt
+#Files=10
+#Start=06-09-2006 10:35:45
+#Stop=06-09-2006 10:35:45

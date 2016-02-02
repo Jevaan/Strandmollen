@@ -1,0 +1,12 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.Form1.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.Properties.Resources.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe.config
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.pdb

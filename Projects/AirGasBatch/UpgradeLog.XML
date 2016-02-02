@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AirGasBatch">
+</Property><Property Name="Solution File" Value="Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch.sln">
+</Property><Property Name="Date" Value="26. januar 2016">
+</Property><Property Name="Time" Value="12:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AirGasBatch.sln" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch.sln">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\AirGasBatch.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\AirGasBatch.csproj">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Form1.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Form1.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Program.cs">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Properties\Settings.settings" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Form1.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\AirGasBatch\Backup\AirGasBatch\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\AirGasBatch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AirGasBatch" Source="AirGasBatch\AirGasBatch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AirGasBatch.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AirGasBatch.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AirGasBatch" Source="AirGasBatch\AirGasBatch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,9 @@
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe.config
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.pdb
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\obj\Debug\FileToMail.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\obj\Debug\FileToMail.ProjectInstaller.resources
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\obj\Debug\FileToMail.FileToMail.resources
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\obj\Debug\FileToMail.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\obj\Debug\FileToMail.exe
+c:\users\ja\documents\visual studio 2012\Projects\FileToMail\FileToMail\obj\Debug\FileToMail.pdb

@@ -1,0 +1,8 @@
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\obj\Debug\CO2Batch.csproj.GenerateResource.Cache
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\obj\Debug\CO2Batch.Form1.resources
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\obj\Debug\CO2Batch.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\bin\Debug\CO2Batch.exe
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\bin\Debug\CO2Batch.pdb
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\obj\Debug\CO2Batch.exe
+Z:\Visual Studio Projects\Projects\CO2Batch\TekBatch\obj\Debug\CO2Batch.pdb

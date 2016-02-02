@@ -1,0 +1,2 @@
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.exe
+Z:\Visual Studio Projects\Projects\Batchmærke\Batchmærke\obj\Debug\Batchmærke.pdb

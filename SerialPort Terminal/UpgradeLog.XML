@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SerialPort Terminal">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\SerialPort Terminal.sln">
+</Property><Property Name="Date" Value="7. maj 2009">
+</Property><Property Name="Time" Value="13:26:32">
+</Property></Properties><Event ErrorLevel="0" Project="SerialPort Terminal" Source="SerialPort Terminal.csproj" Description="Project file successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\SerialPort Terminal.csproj">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="SerialPort Terminal.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\SerialPort Terminal.csproj.user">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="About.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\About.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="About.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Terminal.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Terminal.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Terminal.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Terminal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="App.config" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="About.resx" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\About.resx">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Terminal.resx" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Terminal.resx">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="About.htm" Description="File successfully backed up as C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\Backup\About.htm">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="SerialPort Terminal.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SerialPort Terminal" Source="SerialPort Terminal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SerialPort Terminal" Source="SerialPort Terminal.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

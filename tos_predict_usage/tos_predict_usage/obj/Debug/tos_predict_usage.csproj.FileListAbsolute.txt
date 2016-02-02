@@ -1,0 +1,9 @@
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\bin\Debug\tos_predict_usage.exe.config
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\bin\Debug\tos_predict_usage.exe
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\bin\Debug\tos_predict_usage.pdb
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\obj\Debug\tos_predict_usage.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\obj\Debug\tos_predict_usage.Form1.resources
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\obj\Debug\tos_predict_usage.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\obj\Debug\tos_predict_usage.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\obj\Debug\tos_predict_usage.exe
+c:\users\ja\documents\visual studio 2012\Projects\tos_predict_usage\tos_predict_usage\obj\Debug\tos_predict_usage.pdb

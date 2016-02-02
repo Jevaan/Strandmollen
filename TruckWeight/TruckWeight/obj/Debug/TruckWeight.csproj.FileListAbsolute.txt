@@ -1,0 +1,9 @@
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\bin\Debug\TruckWeight.exe.config
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\bin\Debug\TruckWeight.exe
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\bin\Debug\TruckWeight.pdb
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\obj\Debug\TruckWeight.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\obj\Debug\TruckWeight.Form1.resources
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\obj\Debug\TruckWeight.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\obj\Debug\TruckWeight.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\obj\Debug\TruckWeight.exe
+c:\users\ja\documents\visual studio 2012\Projects\TruckWeight\TruckWeight\obj\Debug\TruckWeight.pdb

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://barcode.strandmollen.local/bc.asmx?wsdl" docRef="http://barcode.strandmollen.local/bc.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://barcode.strandmollen.local/bc.asmx" xmlns:q1="http://barcode.strandmollen.local/" binding="q1:bcSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://barcode.strandmollen.local/bc.asmx" xmlns:q2="http://barcode.strandmollen.local/" binding="q2:bcSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

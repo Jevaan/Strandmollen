@@ -1,0 +1,82 @@
+﻿Installing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Installing service FileToMail...
+Service FileToMail has been successfully installed.
+Creating EventLog source FileToMail in log Application...
+Committing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Installing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Installing service FileToMail...
+Creating EventLog source FileToMail in log Application...
+Rolling back assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Restoring event log to previous state for source FileToMail.
+Uninstalling assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Removing EventLog source FileToMail.
+Service FileToMail is being removed from the system...
+Service FileToMail was successfully removed from the system.
+Installing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Installing service FileToMail...
+Creating EventLog source FileToMail in log Application...
+Rolling back assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Restoring event log to previous state for source FileToMail.
+Installing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Installing service FileToMail...
+Creating EventLog source FileToMail in log Application...
+Rolling back assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Restoring event log to previous state for source FileToMail.
+Uninstalling assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Removing EventLog source FileToMail.
+Warning: The source FileToMail is not registered on the local machine.
+Service FileToMail is being removed from the system...
+Service FileToMail was successfully removed from the system.
+Installing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe
+Installing service FileToMail...
+Service FileToMail has been successfully installed.
+Creating EventLog source FileToMail in log Application...
+Committing assembly 'C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.InstallLog
+   assemblypath = C:\Users\ja\Documents\Visual Studio 2012\Projects\FileToMail\FileToMail\bin\Debug\FileToMail.exe

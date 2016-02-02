@@ -1,0 +1,188 @@
+﻿body {
+    width: 1200px;
+    margin: 40px auto;
+    font-family: 'trebuchet MS', 'Lucida sans', Arial;
+    font-size: 14px;
+    color: #444;
+}
+
+table {
+    *border-collapse: collapse; /* IE7 and lower */
+    border-spacing: 0;    
+}
+img{   
+    max-width:100px;
+	max-height: 80px;
+	overflow: hidden;
+}
+
+.noborders
+{
+	border: none;
+}
+.disptext
+{
+	display: inline-block;
+	font-family: 'trebuchet MS', 'Lucida sans', Arial;
+    font-size: 14px;
+    color: #444;
+}
+
+.disptextsmall
+{
+	display: inline-block;
+	font-family: 'trebuchet MS', 'Lucida sans', Arial;
+	font-size: 11px;
+	color: #444;
+}
+
+.bordered {
+	display: block;
+	width: 325px;
+    border: solid #999 1px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 2px 2px #ccc; 
+    -moz-box-shadow: 0 2px 2px #ccc; 
+    box-shadow: 2px 2px 2px #ccc;         
+}
+	.bordered tbody
+	{
+		width: 325px;
+	}
+
+.bordered tr:hover+.drop {
+    background: #ABC5DB;
+    -o-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+	visibility:visible;   
+}    
+    
+.bordered td, .bordered th {
+    border-left: 0px solid #ccc;
+    border-top: 0px solid #ccc;
+    padding: 5px;
+    text-align: left;    
+}
+
+.bordered th {
+    background-color: #dce9f9;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#ebf3fc), to(#dce9f9));
+    background-image: -webkit-linear-gradient(top, #ebf3fc, #dce9f9);
+    background-image:    -moz-linear-gradient(top, #ebf3fc, #dce9f9);
+    background-image:     -ms-linear-gradient(top, #ebf3fc, #dce9f9);
+    background-image:      -o-linear-gradient(top, #ebf3fc, #dce9f9);
+    background-image:         linear-gradient(top, #ebf3fc, #dce9f9);
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+    border-top: none;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+}
+
+.bordered td:first-child, .bordered th:first-child {
+    border-left: none;
+	width: 30%;
+}
+
+.bordered th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;
+}
+
+.bordered th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+
+.bordered th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+
+.bordered tr:last-child td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+
+.bordered tr:last-child td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+
+.menu {
+    display:block;
+    width:80px;
+    height:80px;
+}
+.menu:hover {
+    display:block;
+    width:180px;
+    height:80px;
+}
+.drop {
+    position:fixed;
+    background:#ABC5DB;
+    margin:0;
+    padding:110px;
+    font-family:'Exo 2', sans-serif;
+    color:#FFF;
+    visibility:hidden;
+	border-radius: 8px;
+	box-shadow: 5px 5px 5px #555; 
+}
+.menu:hover+.drop, .drop:hover {
+    position:absolute;
+    background:#ABC5DB;
+	border: solid #333 1px;
+    margin:0;
+    padding:10px;
+    font-family:'Exo 2', sans-serif;
+    color:#FFF;
+    visibility:visible;
+}
+li:hover
+{
+	color: #000;
+	font-style:italic;
+	text-decoration:double;
+}
+.menuoption
+{
+	border:none;
+	background:none;
+	color: #fff;
+	font-size: 16pt;
+	padding:10px;
+}
+.menuoption:hover
+{
+	color: #000;
+	font-style:italic;
+	text-decoration:double;
+	background:none;
+}
+#element_to_pop_up { 
+    background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:400px;
+    min-height: 180px;
+}
+.b-close{
+    cursor:pointer;
+    position:absolute;
+    right:10px;
+    top:5px;
+}

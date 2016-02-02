@@ -1,0 +1,8 @@
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\obj\Debug\MedBatch.exe
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\obj\Debug\MedBatch.pdb
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\bin\Debug\MedBatch.exe
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\bin\Debug\MedBatch.pdb
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\obj\Debug\MedBatch.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\obj\Debug\MedBatch.csproj.GenerateResource.Cache
+Z:\Visual Studio Projects\Projects\MedBatch\MedBatch\obj\Debug\MedBatch.MedBatch.resources

@@ -1,0 +1,5 @@
+c:\users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\bin\InOutBoard.dll
+c:\users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\bin\InOutBoard.pdb
+c:\users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\obj\Debug\InOutBoard.dll
+c:\users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\obj\Debug\InOutBoard.pdb
+C:\Users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\obj\Debug\InOutBoard.csprojResolveAssemblyReference.cache

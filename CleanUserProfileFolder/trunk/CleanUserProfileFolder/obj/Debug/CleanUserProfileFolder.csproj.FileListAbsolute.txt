@@ -1,0 +1,6 @@
+C:\Users\ja\Documents\Visual Studio 2012\Projects\CleanUserProfileFolder\trunk\CleanUserProfileFolder\bin\Debug\CleanUserProfileFolder.exe.config
+C:\Users\ja\Documents\Visual Studio 2012\Projects\CleanUserProfileFolder\trunk\CleanUserProfileFolder\bin\Debug\CleanUserProfileFolder.exe
+C:\Users\ja\Documents\Visual Studio 2012\Projects\CleanUserProfileFolder\trunk\CleanUserProfileFolder\bin\Debug\CleanUserProfileFolder.pdb
+C:\Users\ja\Documents\Visual Studio 2012\Projects\CleanUserProfileFolder\trunk\CleanUserProfileFolder\obj\Debug\CleanUserProfileFolder.csprojResolveAssemblyReference.cache
+C:\Users\ja\Documents\Visual Studio 2012\Projects\CleanUserProfileFolder\trunk\CleanUserProfileFolder\obj\Debug\CleanUserProfileFolder.exe
+C:\Users\ja\Documents\Visual Studio 2012\Projects\CleanUserProfileFolder\trunk\CleanUserProfileFolder\obj\Debug\CleanUserProfileFolder.pdb

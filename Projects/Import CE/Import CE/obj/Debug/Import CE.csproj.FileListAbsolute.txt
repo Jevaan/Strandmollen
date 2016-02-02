@@ -1,0 +1,9 @@
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\bin\Debug\Import CE.exe
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\bin\Debug\Import CE.pdb
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\bin\Debug\System.Data.SqlServerCe.dll
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\obj\Debug\Import_CE.Import.resources
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\obj\Debug\Import_CE.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\obj\Debug\Import CE.csproj.GenerateResource.Cache
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\obj\Debug\Import CE.exe
+Z:\Visual Studio Projects\Projects\Import CE\Import CE\obj\Debug\Import CE.pdb

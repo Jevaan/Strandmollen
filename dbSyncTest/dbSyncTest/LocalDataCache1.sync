@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<syncDesignerSurface dslVersion="1.0.0.0" Id="5f551521-3b5e-48c9-9752-f670812103b7" parentDesignerName="LocalDataCache1" codeGenerationMode="Client and Server" synchronizeInOneTransaction="false" clientFileLocation="f696102f-d125-4807-8f83-99e0315f3fb2" serverFileLocation="f696102f-d125-4807-8f83-99e0315f3fb2" isRootSyncDesigner="true" rootSyncDesignerShouldGenerateCode="true" isClientSyncDesigner="false" isServerSyncDesigner="false" xmlns="http://schemas.microsoft.com/dsltools/SyncDesigner">
+  <syncAdapters>
+    <syncAdapter Id="e105fe93-98bd-4905-9bf5-8aae47ef0261" name="BarcodesSyncAdapter" tableName="Barcodes">
+      <syncAdapterCommands>
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableInsertCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableDeleteCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableUpdateCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableSelectConflictDeletedRowsCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableSelectConflictUpdatedRowsCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableSelectIncrementalInsertsCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableSelectIncrementalDeletesCommand" />
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTableSelectIncrementalUpdatesCommand" />
+      </syncAdapterCommands>
+    </syncAdapter>
+  </syncAdapters>
+  <syncTables>
+    <syncTable Id="fc6ef178-5a0e-4e73-bb01-4c72c79555cf" name="BarcodesSyncTable" syncDirection="DownloadOnly" creationOptions="DropExistingOrCreateNewTable" tableName="Barcodes" deletedItemsTableName="Barcodes_Tombstone" createdDateColumnName="CreationDate" lastEditDateColumnName="LastEditDate" fullTableName="dbo.Barcodes" deletedDateColumnName="DeletionDate" transactionIndex="0">
+      <syncGroup>
+        <syncGroupMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncGroup" />
+      </syncGroup>
+    </syncTable>
+  </syncTables>
+  <syncGroups>
+    <syncGroup Id="6ed5817e-f757-4fea-83c2-e289b51d6a30" name="BarcodesSyncGroup" />
+  </syncGroups>
+  <clientSyncProvider>
+    <clientSyncProvider Id="f9222d3b-3344-4be6-9dc5-fa114e850a2e" name="LocalDataCache1ClientSyncProvider">
+      <syncConnection>
+        <syncConnectionMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/ClientConnection" />
+      </syncConnection>
+    </clientSyncProvider>
+  </clientSyncProvider>
+  <serverSyncProvider>
+    <serverSyncProvider Id="39706fe5-c6c2-4111-b566-df834b5b26c3" name="LocalDataCache1ServerSyncProvider">
+      <syncAdapters>
+        <syncAdapterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncAdapter" />
+      </syncAdapters>
+      <syncConnection>
+        <syncConnectionMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/ServerConnection" />
+      </syncConnection>
+      <selectNewAnchorCommand>
+        <syncAdapterCommandMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/selectNewAnchorCmd" />
+      </selectNewAnchorCommand>
+    </serverSyncProvider>
+  </serverSyncProvider>
+  <syncAgent>
+    <syncAgent name="LocalDataCache1SyncAgent" synchronizeInOneTransaction="false">
+      <serverSyncProvider>
+        <serverSyncProviderMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/LocalDataCache1ServerSyncProvider" />
+      </serverSyncProvider>
+      <clientSyncProvider>
+        <clientSyncProviderMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/LocalDataCache1ClientSyncProvider" />
+      </clientSyncProvider>
+      <syncTables>
+        <syncTableMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/BarcodesSyncTable" />
+      </syncTables>
+    </syncAgent>
+  </syncAgent>
+  <syncAdapterCommands>
+    <syncAdapterCommand Id="1cf3e375-e2f0-489e-ba28-f6fd7ae70b1a" commandText="INSERT INTO dbo.Barcodes ([Barcode], [Size], [Number], [Variant], [Item], [Test], [BatType], [LastEditDate], [CreationDate]) VALUES (@Barcode, @Size, @Number, @Variant, @Item, @Test, @BatType, @LastEditDate, @CreationDate) SET @sync_row_count = @@rowcount" commandType="Text" name="BarcodesSyncTableInsertCommand" commandKind="InsertCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Barcode" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Size" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Number" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Variant" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Item" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Test" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@BatType" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@LastEditDate" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@CreationDate" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_row_count" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="ea158b75-1479-4edd-92b4-bba5fd758fe3" commandText="DELETE FROM dbo.Barcodes WHERE ([Barcode] = @Barcode) AND (@sync_force_write = 1 OR ([LastEditDate] &lt;= @sync_last_received_anchor)) SET @sync_row_count = @@rowcount" commandType="Text" name="BarcodesSyncTableDeleteCommand" commandKind="DeleteCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Barcode1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_force_write" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_last_received_anchor" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_row_count1" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="13b3cd7e-d89b-4b09-a86d-3c566094356a" commandText="UPDATE dbo.Barcodes SET [Size] = @Size, [Number] = @Number, [Variant] = @Variant, [Item] = @Item, [Test] = @Test, [BatType] = @BatType, [LastEditDate] = @LastEditDate, [CreationDate] = @CreationDate WHERE ([Barcode] = @Barcode) AND (@sync_force_write = 1 OR ([LastEditDate] &lt;= @sync_last_received_anchor)) SET @sync_row_count = @@rowcount" commandType="Text" name="BarcodesSyncTableUpdateCommand" commandKind="UpdateCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Size1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Number1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Variant1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Item1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Test1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@BatType1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@LastEditDate1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@CreationDate1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Barcode2" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_force_write1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_last_received_anchor1" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_row_count2" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="ebfbefc3-1000-4ced-a25a-c68e80a784cf" commandText="SELECT [Barcode], [DeletionDate] FROM [Barcodes_Tombstone] WHERE ([Barcode] = @Barcode)" commandType="Text" name="BarcodesSyncTableSelectConflictDeletedRowsCommand" commandKind="SelectConflictDeletedRowsCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Barcode3" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="f8f16621-e9a8-4bd8-9847-ac3bbf76823a" commandText="SELECT [Barcode], [Size], [Number], [Variant], [Item], [Test], [BatType], [LastEditDate], [CreationDate] FROM dbo.Barcodes WHERE ([Barcode] = @Barcode)" commandType="Text" name="BarcodesSyncTableSelectConflictUpdatedRowsCommand" commandKind="SelectConflictUpdatedRowsCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@Barcode4" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="5c2e95e9-5fc1-4566-9244-8d048fd69b9b" commandText="SELECT [Barcode], [Size], [Number], [Variant], [Item], [Test], [BatType], [LastEditDate], [CreationDate] FROM dbo.Barcodes WHERE ([CreationDate] &gt; @sync_last_received_anchor AND [CreationDate] &lt;= @sync_new_received_anchor)" commandType="Text" name="BarcodesSyncTableSelectIncrementalInsertsCommand" commandKind="SelectIncrementalInsertsCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_last_received_anchor2" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_new_received_anchor" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="415e08fa-b1aa-4518-b2ec-ee732c9092bc" commandText="SELECT [Barcode], [DeletionDate] FROM [Barcodes_Tombstone] WHERE (@sync_initialized = 1 AND [DeletionDate] &gt; @sync_last_received_anchor AND [DeletionDate] &lt;= @sync_new_received_anchor)" commandType="Text" name="BarcodesSyncTableSelectIncrementalDeletesCommand" commandKind="SelectIncrementalDeletesCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_initialized" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_last_received_anchor3" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_new_received_anchor1" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="47224305-ead0-4fa5-83a9-51f84ae98831" commandText="SELECT [Barcode], [Size], [Number], [Variant], [Item], [Test], [BatType], [LastEditDate], [CreationDate] FROM dbo.Barcodes WHERE ([LastEditDate] &gt; @sync_last_received_anchor AND [LastEditDate] &lt;= @sync_new_received_anchor AND [CreationDate] &lt;= @sync_last_received_anchor)" commandType="Text" name="BarcodesSyncTableSelectIncrementalUpdatesCommand" commandKind="SelectIncrementalUpdatesCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_last_received_anchor4" />
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_new_received_anchor2" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+    <syncAdapterCommand Id="44599c2d-25ad-463c-9f1d-ce7329f6d35e" commandText="Select @sync_new_received_anchor = GETUTCDATE()" commandType="Text" name="selectNewAnchorCmd" commandKind="SelectNewAnchorCommand">
+      <syncAdapterCommandParameters>
+        <syncAdapterCommandParameterMoniker name="/5f551521-3b5e-48c9-9752-f670812103b7/@sync_new_received_anchor3" />
+      </syncAdapterCommandParameters>
+    </syncAdapterCommand>
+  </syncAdapterCommands>
+  <syncAdapterCommandParameters>
+    <syncAdapterCommandParameter Id="fbd496dc-fdb1-4892-bf40-62e8637695e9" parameterType="NChar" parameterName="@Barcode" name="@Barcode" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="dcfa6f7b-7bfa-460f-9dab-ee32f3c861f0" parameterType="NVarChar" parameterName="@Size" name="@Size" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="4e9faaa1-26ab-49d8-98a1-21c8dfb1e201" parameterType="NVarChar" parameterName="@Number" name="@Number" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="6f358c31-a1fc-4511-9a1a-e53967aa22c4" parameterType="NVarChar" parameterName="@Variant" name="@Variant" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="d281c49f-f3a2-4cfe-8657-48991ab06ea7" parameterType="NVarChar" parameterName="@Item" name="@Item" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="10850c60-4315-4b35-8b0f-f16e553981a3" parameterType="NVarChar" parameterName="@Test" name="@Test" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="42dcd915-2b37-4d83-b27a-d6ff5ed5fff6" parameterType="NVarChar" parameterName="@BatType" name="@BatType" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="a58e3f45-6157-48c1-8985-4e60331ade7d" parameterType="DateTime" parameterName="@LastEditDate" name="@LastEditDate" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="eae6af11-dc16-415b-a3c9-d059bd42f586" parameterType="DateTime" parameterName="@CreationDate" name="@CreationDate" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="f08e57a7-fe4f-439f-b5ca-af52e9c76df9" parameterType="Int" parameterName="@sync_row_count" name="@sync_row_count" parameterDirection="Output" />
+    <syncAdapterCommandParameter Id="b9345cfa-0839-45ca-80fa-d40cfeac8d47" parameterType="NChar" parameterName="@Barcode" name="@Barcode1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="a798010a-afe3-4f62-81c9-5daa85960f86" parameterType="Bit" parameterName="@sync_force_write" name="@sync_force_write" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="a47e2a6e-f926-4f28-91f6-d68f06596fe0" parameterType="DateTime" parameterName="@sync_last_received_anchor" name="@sync_last_received_anchor" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="e9428a95-ec3f-4da9-9522-5343baf83da8" parameterType="Int" parameterName="@sync_row_count" name="@sync_row_count1" parameterDirection="Output" />
+    <syncAdapterCommandParameter Id="f3c8db27-1f07-4fe7-ba64-2d390a856e2f" parameterType="NVarChar" parameterName="@Size" name="@Size1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="6579234f-1188-413f-9e06-3a4522f746c9" parameterType="NVarChar" parameterName="@Number" name="@Number1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="ab3e1442-28b7-4151-98e3-cc030d3a3b91" parameterType="NVarChar" parameterName="@Variant" name="@Variant1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="fa2b139d-cd1b-45c7-8ed8-1aed99b3d6af" parameterType="NVarChar" parameterName="@Item" name="@Item1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="f1ffed6a-55f9-4a81-affc-fd1cb948a621" parameterType="NVarChar" parameterName="@Test" name="@Test1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="e23c86f3-f64b-48ea-9e47-e0c3f6ed3d2a" parameterType="NVarChar" parameterName="@BatType" name="@BatType1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="090fb101-4490-4d1a-91a7-778e6c6ad7bf" parameterType="DateTime" parameterName="@LastEditDate" name="@LastEditDate1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="30e9225d-bfd7-40cf-8c8d-ee020dbd30f7" parameterType="DateTime" parameterName="@CreationDate" name="@CreationDate1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="ece0fe5d-d043-44c5-aa92-866e1826a41e" parameterType="NChar" parameterName="@Barcode" name="@Barcode2" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="c7939dca-7115-43e9-b2f1-1476ecbe8ebc" parameterType="Bit" parameterName="@sync_force_write" name="@sync_force_write1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="c5d30b7b-bd4d-4129-b9c8-fe929ca081ee" parameterType="DateTime" parameterName="@sync_last_received_anchor" name="@sync_last_received_anchor1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="7d561378-7e88-4f71-b67e-9d579879230e" parameterType="Int" parameterName="@sync_row_count" name="@sync_row_count2" parameterDirection="Output" />
+    <syncAdapterCommandParameter Id="aa481734-77c2-4684-9b00-2d1039d77ede" parameterType="NChar" parameterName="@Barcode" name="@Barcode3" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="92925697-47c7-45e9-b007-5b2094ca0667" parameterType="NChar" parameterName="@Barcode" name="@Barcode4" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="0e7f398d-88e5-4565-a8ff-7bc64b8d0648" parameterType="DateTime" parameterName="@sync_last_received_anchor" name="@sync_last_received_anchor2" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="439e4333-f59c-466b-a4d8-0db0801bb98b" parameterType="DateTime" parameterName="@sync_new_received_anchor" name="@sync_new_received_anchor" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="e1db81ca-7e1a-406a-a20d-7890278e6bf5" parameterType="Bit" parameterName="@sync_initialized" name="@sync_initialized" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="59b64cc4-2588-4644-8476-9c0f67949fda" parameterType="DateTime" parameterName="@sync_last_received_anchor" name="@sync_last_received_anchor3" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="d6172273-8dc7-4d72-badc-08744d5152f4" parameterType="DateTime" parameterName="@sync_new_received_anchor" name="@sync_new_received_anchor1" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="6d5c688a-05cd-425f-8aea-efc14e176b15" parameterType="DateTime" parameterName="@sync_last_received_anchor" name="@sync_last_received_anchor4" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="8b256e0a-929d-4901-b188-895987c28dea" parameterType="DateTime" parameterName="@sync_new_received_anchor" name="@sync_new_received_anchor2" parameterDirection="Input" />
+    <syncAdapterCommandParameter Id="c8b311cf-4c9a-4a3a-beed-931550cf1ba1" parameterType="DateTime" parameterName="@sync_new_received_anchor" name="@sync_new_received_anchor3" parameterDirection="Output" />
+  </syncAdapterCommandParameters>
+  <syncConnections>
+    <syncConnection Id="736131c5-c31f-4a3e-8a6f-35286332286e" name="ClientConnection" connectionDisplayString="ClientstregConnectionString (Settings)" isAppSettings="true" appSettingsObjectName="Settings" appSettingsPropertyName="ClientstregConnectionString" appSettingsPropertyReference="" />
+    <syncConnection Id="2202a29f-4bae-4080-9980-fa9914c97ee8" name="ServerConnection" connectionDisplayString="ServerstregConnectionString (Settings)" isAppSettings="true" appSettingsObjectName="Settings" appSettingsPropertyName="ServerstregConnectionString" appSettingsPropertyReference="" />
+  </syncConnections>
+</syncDesignerSurface>

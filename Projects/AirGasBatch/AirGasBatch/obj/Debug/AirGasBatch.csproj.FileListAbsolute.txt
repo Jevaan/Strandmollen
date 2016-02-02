@@ -1,0 +1,8 @@
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\obj\Debug\AirGasBatch.exe
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\obj\Debug\AirGasBatch.pdb
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\bin\Debug\AirGasBatch.exe
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\bin\Debug\AirGasBatch.pdb
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\obj\Debug\AirGasBatch.Form1.resources
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\obj\Debug\AirGasBatch.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\AirGasBatch\AirGasBatch\obj\Debug\AirGasBatch.csproj.GenerateResource.Cache

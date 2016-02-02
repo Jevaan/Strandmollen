@@ -1,0 +1,10 @@
+﻿#FORMAT
+#<Navn>
+FLV
+CO2
+Fyldehal
+Medicinsk
+KLP
+Holbaek
+Ljungby
+IT

@@ -1,0 +1,5 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\BarcodeWebService\BarcodeWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\BarcodeWebService\BarcodeWebService\bin\BarcodeWebService.dll
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\BarcodeWebService\BarcodeWebService\bin\BarcodeWebService.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\BarcodeWebService\BarcodeWebService\obj\Debug\BarcodeWebService.dll
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\BarcodeWebService\BarcodeWebService\obj\Debug\BarcodeWebService.pdb

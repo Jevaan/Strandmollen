@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CEscan">
+</Property><Property Name="Solution File" Value="Z:\Visual Studio Projects\Projects\CEscan\CEscan.sln">
+</Property><Property Name="Date" Value="20. september 2010">
+</Property><Property Name="Time" Value="15:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CEscan.sln" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan.sln">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\CEscan.csproj" Description="Project file successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\CEscan.csproj">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\CEscan.csproj.user" Description="Project user file successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\CEscan.csproj.user">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Form1.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Form1.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Program.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Program.cs">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Form1.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Properties\Resources.resx" Description="File successfully backed up as Z:\Visual Studio Projects\Projects\CEscan\Backup\CEscan\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\CEscan.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CEscan" Source="CEscan\CEscan.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CEscan.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CEscan.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CEscan" Source="CEscan\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CEscan" Source="CEscan\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CEscan" Source="CEscan\CEscan.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

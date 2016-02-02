@@ -1,0 +1,4 @@
+C:\Users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\bin\InOutBoard.dll
+C:\Users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\bin\InOutBoard.pdb
+C:\Users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\obj\Release\InOutBoard.dll
+C:\Users\ja\documents\visual studio 2012\Projects\InOutBoard\InOutBoard\obj\Release\InOutBoard.pdb

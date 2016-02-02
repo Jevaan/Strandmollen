@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaskeRegistrering", "CE_Network\FlaskeRegistrering.csproj", "{07C28E71-80D3-44D3-8F0E-2EFDDC140056}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "FlasklRegistreringSetup", "FlasklRegistreringSetup\FlasklRegistreringSetup.vddproj", "{BC65BFD0-E747-4AE2-8D11-5672E2D398B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C28E71-80D3-44D3-8F0E-2EFDDC140056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C28E71-80D3-44D3-8F0E-2EFDDC140056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C28E71-80D3-44D3-8F0E-2EFDDC140056}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{07C28E71-80D3-44D3-8F0E-2EFDDC140056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C28E71-80D3-44D3-8F0E-2EFDDC140056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C28E71-80D3-44D3-8F0E-2EFDDC140056}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BC65BFD0-E747-4AE2-8D11-5672E2D398B7}.Debug|Any CPU.ActiveCfg = Debug
+		{BC65BFD0-E747-4AE2-8D11-5672E2D398B7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

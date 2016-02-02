@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Batchmærke">
+</Property><Property Name="Solution File" Value="Z:\Visual Studio Projects\Projects\Batchmærke Klb\Batchmærke.sln">
+</Property><Property Name="Date" Value="4. april 2011">
+</Property><Property Name="Time" Value="13:05">
+</Property></Properties><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Batchmærke.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Batchmærke.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Batchmærke" Source="Batchmærke\Batchmærke.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

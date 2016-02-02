@@ -1,0 +1,5 @@
+C:\Users\ja\documents\visual studio 2012\Projects\Win911Config\Win911Config\bin\Win911Config.dll
+C:\Users\ja\documents\visual studio 2012\Projects\Win911Config\Win911Config\bin\Win911Config.pdb
+C:\Users\ja\documents\visual studio 2012\Projects\Win911Config\Win911Config\obj\Release\Win911Config.csprojResolveAssemblyReference.cache
+C:\Users\ja\documents\visual studio 2012\Projects\Win911Config\Win911Config\obj\Release\Win911Config.dll
+C:\Users\ja\documents\visual studio 2012\Projects\Win911Config\Win911Config\obj\Release\Win911Config.pdb

@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Scanfejl.Properties.Resources.resources
+obj\Debug\Scanfejl.ReaderForm.resources
+obj\Debug\Scanfejl.csproj.GenerateResource.Cache
+bin\Debug\Scanfejl.exe
+bin\Debug\Scanfejl.pdb
+bin\Debug\Symbol.Barcode.dll
+bin\Debug\Symbol.dll
+bin\Debug\Symbol.xml
+bin\Debug\Symbol.Barcode.xml
+obj\Debug\Scanfejl.exe
+obj\Debug\Scanfejl.pdb
+bin\Debug\System.Data.SqlServerCe.dll
+bin\Debug\System.Data.SqlServerCe.xml

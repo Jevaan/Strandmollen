@@ -1,0 +1,9 @@
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\bin\Debug\Reset Database.exe
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\bin\Debug\Reset Database.pdb
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\bin\Debug\System.Data.SqlServerCe.dll
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\obj\Debug\Reset_Database.Form1.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\obj\Debug\Reset_Database.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\obj\Debug\Reset Database.csproj.GenerateResource.Cache
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\obj\Debug\Reset Database.exe
+Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Reset Database\obj\Debug\Reset Database.pdb

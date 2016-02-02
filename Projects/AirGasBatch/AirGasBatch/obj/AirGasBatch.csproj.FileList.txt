@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AirGasBatch.Properties.Resources.resources
+obj\Debug\AirGasBatch.csproj.GenerateResource.Cache
+obj\Debug\AirGasBatch.Form1.resources
+bin\Debug\AirGasBatch.exe
+bin\Debug\AirGasBatch.pdb
+obj\Debug\AirGasBatch.exe
+obj\Debug\AirGasBatch.pdb

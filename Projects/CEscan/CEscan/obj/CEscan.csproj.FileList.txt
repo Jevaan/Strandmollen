@@ -1,0 +1,10 @@
+bin\Debug\CEscan.exe
+bin\Debug\CEscan.pdb
+bin\Debug\Symbol.Barcode.Design.dll
+bin\Debug\Symbol.Barcode.Design.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CEscan.Form1.resources
+obj\Debug\CEscan.Properties.Resources.resources
+obj\Debug\CEscan.csproj.GenerateResource.Cache
+obj\Debug\CEscan.exe
+obj\Debug\CEscan.pdb

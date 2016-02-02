@@ -1,0 +1,32 @@
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.exe
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.pdb
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.exe
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.pdb
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Form1.resources
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.csproj.GenerateResource.Cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Form1.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Properties.Resources.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.csproj.GenerateResource.Cache
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ResolveAssemblyReference.cache
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Form1.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Properties.Resources.resources
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.csproj.GenerateResource.Cache
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.exe
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.pdb
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.exe
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\bin\Debug\ModemComm.pdb
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ResolveAssemblyReference.cache
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Form1.resources
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.Properties.Resources.resources
+\\san-na-01\it\Private mapper\JA\Visual Studio 2008\Projects\ModemComm\ModemComm\obj\Debug\ModemComm.csproj.GenerateResource.Cache

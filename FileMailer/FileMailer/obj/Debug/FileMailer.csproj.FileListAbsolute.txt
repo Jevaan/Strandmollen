@@ -1,0 +1,9 @@
+c:\users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\bin\Debug\FileMailer.exe.config
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\bin\Debug\FileMailer.exe
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\bin\Debug\FileMailer.pdb
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\obj\Debug\FileMailer.csprojResolveAssemblyReference.cache
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\obj\Debug\FileMailer.Form1.resources
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\obj\Debug\FileMailer.Properties.Resources.resources
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\obj\Debug\FileMailer.csproj.GenerateResource.Cache
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\obj\Debug\FileMailer.exe
+C:\Users\ja\documents\visual studio 2012\Projects\FileMailer\FileMailer\obj\Debug\FileMailer.pdb

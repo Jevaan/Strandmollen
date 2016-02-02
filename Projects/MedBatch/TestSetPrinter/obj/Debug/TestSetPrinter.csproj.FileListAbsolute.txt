@@ -1,0 +1,9 @@
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\TestSetPrinter.dll
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\TestSetPrinter.pdb
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\MedBatch.exe
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\MedBatch.pdb
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\MedBatch_Accessor.dll
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\bin\Debug\MedBatch_Accessor.pdb
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\obj\Debug\TestSetPrinter.dll
+Z:\Visual Studio Projects\Projects\MedBatch\TestSetPrinter\obj\Debug\TestSetPrinter.pdb

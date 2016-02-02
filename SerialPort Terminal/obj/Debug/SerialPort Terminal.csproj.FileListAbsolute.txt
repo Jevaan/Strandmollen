@@ -1,0 +1,13 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPort Terminal.csproj.GenerateResource.Cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\bin\Debug\SerialPort Terminal.pdb
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPort Terminal.exe
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPort Terminal.pdb
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe.config
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPort Terminal.exe
+\\Srv-fil-03\it\Private mapper\JA\Visual Studio 2008\Projects\SerialPort Terminal\obj\Debug\SerialPort Terminal.pdb

@@ -1,0 +1,8 @@
+bin\Debug\TCP Server (PC).exe
+bin\Debug\TCP Server (PC).pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TCP_Server__PC_.Form1.resources
+obj\Debug\TCP_Server__PC_.Properties.Resources.resources
+obj\Debug\TCP Server (PC).csproj.GenerateResource.Cache
+obj\Debug\TCP Server (PC).exe
+obj\Debug\TCP Server (PC).pdb

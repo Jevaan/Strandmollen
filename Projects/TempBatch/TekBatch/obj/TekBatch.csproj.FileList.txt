@@ -1,0 +1,8 @@
+bin\Debug\TekBatch.exe
+bin\Debug\TekBatch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TekBatch.Form1.resources
+obj\Debug\TekBatch.Properties.Resources.resources
+obj\Debug\TekBatch.csproj.GenerateResource.Cache
+obj\Debug\TekBatch.exe
+obj\Debug\TekBatch.pdb

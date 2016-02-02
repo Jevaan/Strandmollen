@@ -1,0 +1,4 @@
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SmartDeviceSQL\SmartDeviceSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SmartDeviceSQL\SmartDeviceSQL\obj\Debug\SmartDeviceSQL.Form1.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SmartDeviceSQL\SmartDeviceSQL\obj\Debug\SmartDeviceSQL.Properties.Resources.resources
+C:\Documents and Settings\JA\Dokumenter\Visual Studio 2008\Projects\SmartDeviceSQL\SmartDeviceSQL\obj\Debug\SmartDeviceSQL.csproj.GenerateResource.Cache

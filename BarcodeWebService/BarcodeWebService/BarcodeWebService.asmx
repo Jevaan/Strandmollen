@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="BarcodeWebService.asmx.cs" Class="BarcodeWebService.BarcodeWebService" %>

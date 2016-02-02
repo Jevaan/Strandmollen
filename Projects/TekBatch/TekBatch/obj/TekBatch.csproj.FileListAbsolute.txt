@@ -1,0 +1,8 @@
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\obj\Debug\TekBatch.exe
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\obj\Debug\TekBatch.pdb
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\bin\Debug\TekBatch.exe
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\bin\Debug\TekBatch.pdb
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\obj\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\obj\Debug\TekBatch.Form1.resources
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\obj\Debug\TekBatch.Properties.Resources.resources
+Z:\Visual Studio Projects\Projects\TekBatch\TekBatch\obj\Debug\TekBatch.csproj.GenerateResource.Cache
