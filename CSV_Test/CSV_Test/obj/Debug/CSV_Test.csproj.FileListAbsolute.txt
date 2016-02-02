@@ -1,0 +1,9 @@
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\obj\Debug\CSV_Test.Form1.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\obj\Debug\CSV_Test.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\obj\Debug\CSV_Test.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\bin\Debug\Vare.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\bin\Debug\CSV_Test.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\bin\Debug\CSV_Test.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\obj\Debug\CSV_Test.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\CSV_Test\CSV_Test\obj\Debug\CSV_Test.pdb

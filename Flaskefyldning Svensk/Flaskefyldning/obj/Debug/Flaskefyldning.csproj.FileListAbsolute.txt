@@ -1,0 +1,36 @@
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Flaskefyldning.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Flaskefyldning.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.Form1.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Data\Lager-sted.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Data\Vare.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Data\Variant.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Batch\Data.txt
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Intermec.DataCollection.CF3.5.xml
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.LoadForm.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\bin\Debug\Data\Config.txt
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning\Flaskefyldning\obj\Debug\Flaskefyldning.BarcodeList.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Batch\Data.txt
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Data\Config.txt
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Data\Lager-sted.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Data\Vare.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Data\Variant.csv
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Flaskefyldning.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Flaskefyldning.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\Intermec.DataCollection.CF3.5.xml
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.BarcodeList.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.Form1.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.LoadForm.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\obj\Debug\Flaskefyldning.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\OpenNETCF.Net.dll
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\OpenNETCF.dll
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\JA\Documents\Visual Studio 2008\Projects\Flaskefyldning Svensk\Flaskefyldning\bin\Debug\OpenNETCF.Configuration.dll

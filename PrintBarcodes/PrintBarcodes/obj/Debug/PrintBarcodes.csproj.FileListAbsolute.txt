@@ -1,0 +1,8 @@
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\bin\Debug\PrintBarcodes.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\bin\Debug\PrintBarcodes.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\obj\Debug\PrintBarcodes.Form1.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\obj\Debug\PrintBarcodes.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\obj\Debug\PrintBarcodes.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\obj\Debug\PrintBarcodes.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\PrintBarcodes\PrintBarcodes\obj\Debug\PrintBarcodes.pdb

@@ -1,0 +1,15 @@
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\BatchPrint.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\BatchPrint.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.BatchPrint.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.exe
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.pdb
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.Admin.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.MedBatch.resources
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\BatchPrint.exe.config
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\Iceland.ico
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\SWE.ico
+C:\Users\JA\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\DK.ico
+C:\Users\ja\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\bin\Debug\DE.ico
+C:\Users\ja\Documents\Visual Studio 2008\Projects\BatchPrint\BatchPrint\obj\Debug\BatchPrint.csprojResolveAssemblyReference.cache

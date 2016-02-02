@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSStringTest", "WSStringTest\WSStringTest.csproj", "{2BB5C5D6-C44D-4554-940B-3BD14123F6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB5C5D6-C44D-4554-940B-3BD14123F6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB5C5D6-C44D-4554-940B-3BD14123F6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB5C5D6-C44D-4554-940B-3BD14123F6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB5C5D6-C44D-4554-940B-3BD14123F6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

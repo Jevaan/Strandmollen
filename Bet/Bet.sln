@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Bet", "ftp://85.81.127.235/Bet", "{538234AC-574E-44FE-8F0E-D256025217F0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Bet"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_0x55517feb.adsl.cybercity.dk_Bet\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Bet\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Bet"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_0x55517feb.adsl.cybercity.dk_Bet\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Bet\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538234AC-574E-44FE-8F0E-D256025217F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538234AC-574E-44FE-8F0E-D256025217F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UserNameTest", "\\SRSTRAND-02-WEB\e$\Intranet\Tek-net\UserNameTest\", "{42503459-4815-493A-802C-53E0E3521421}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/UserNameTest"
+		Debug.AspNetCompiler.PhysicalPath = "\\SRSTRAND-02-WEB\e$\Intranet\Tek-net\UserNameTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\UserNameTest\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/UserNameTest"
+		Release.AspNetCompiler.PhysicalPath = "\\SRSTRAND-02-WEB\e$\Intranet\Tek-net\UserNameTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\UserNameTest\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49753"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42503459-4815-493A-802C-53E0E3521421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42503459-4815-493A-802C-53E0E3521421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

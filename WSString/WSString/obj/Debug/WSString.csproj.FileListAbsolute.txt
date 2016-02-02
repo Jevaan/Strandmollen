@@ -1,0 +1,5 @@
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSString\WSString\bin\WSString.dll
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSString\WSString\bin\WSString.pdb
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSString\WSString\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSString\WSString\obj\Debug\WSString.dll
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSString\WSString\obj\Debug\WSString.pdb

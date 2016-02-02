@@ -1,0 +1,9 @@
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\bin\Debug\WSStringTest.exe.config
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\bin\Debug\WSStringTest.exe
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\bin\Debug\WSStringTest.pdb
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\obj\Debug\WSStringTest.Form1.resources
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\obj\Debug\WSStringTest.Properties.Resources.resources
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\obj\Debug\WSStringTest.csproj.GenerateResource.Cache
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\obj\Debug\WSStringTest.exe
+C:\Users\ja\Documents\Visual Studio 2008\Projects\WSStringTest\WSStringTest\obj\Debug\WSStringTest.pdb

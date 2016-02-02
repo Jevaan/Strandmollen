@@ -1,0 +1,2 @@
+﻿SRV:\\SRV-SCA-03\CSV$\Test\
+LOC:30
