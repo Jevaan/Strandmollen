@@ -1,8 +1,0 @@
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\obj\Debug\ResolveAssemblyReference.cache
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\obj\Debug\TekBatch.Form1.resources
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\obj\Debug\TempBatch.csproj.GenerateResource.Cache
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\bin\Debug\TempBatch.exe
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\bin\Debug\TempBatch.pdb
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\obj\Debug\TempBatch.Properties.Resources.resources
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\obj\Debug\TempBatch.exe
-Z:\Visual Studio Projects\Projects\TempBatch\TekBatch\obj\Debug\TempBatch.pdb

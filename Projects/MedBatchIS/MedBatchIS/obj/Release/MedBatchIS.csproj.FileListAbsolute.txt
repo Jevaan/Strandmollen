@@ -1,8 +1,0 @@
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\obj\Release\MedBatchIS.exe
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\obj\Release\MedBatchIS.pdb
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\obj\Release\ResolveAssemblyReference.cache
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\obj\Release\MedBatchIS.Form1.resources
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\obj\Release\MedBatchIS.Properties.Resources.resources
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\obj\Release\MedBatchIS.csproj.GenerateResource.Cache
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\bin\Release\MedBatchIS.exe
-Z:\Visual Studio Projects\Projects\MedBatchIS\MedBatchIS\bin\Release\MedBatchIS.pdb

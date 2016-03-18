@@ -1,9 +1,0 @@
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\bin\Debug\Fejl Registrering.exe
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\bin\Debug\Fejl Registrering.pdb
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\bin\Debug\System.Data.SqlServerCe.dll
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\obj\Debug\ResolveAssemblyReference.cache
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\obj\Debug\DeviceApplication1.Form1.resources
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\obj\Debug\Fejl_Registrering.Properties.Resources.resources
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\obj\Debug\Fejl Registrering.csproj.GenerateResource.Cache
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\obj\Debug\Fejl Registrering.exe
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\DeviceApplication1\obj\Debug\Fejl Registrering.pdb

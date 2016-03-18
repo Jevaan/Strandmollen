@@ -1,8 +1,0 @@
-bin\Debug\TCP Client (PocketPC).exe
-bin\Debug\TCP Client (PocketPC).pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\TCP_Client__PocketPC_.Form1.resources
-obj\Debug\TCP_Client__PocketPC_.Properties.Resources.resources
-obj\Debug\TCP Client (PocketPC).csproj.GenerateResource.Cache
-obj\Debug\TCP Client (PocketPC).exe
-obj\Debug\TCP Client (PocketPC).pdb

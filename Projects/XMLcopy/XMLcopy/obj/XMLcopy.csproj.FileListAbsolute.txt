@@ -1,5 +1,0 @@
-Z:\Visual Studio Projects\Projects\XMLcopy\XMLcopy\obj\Debug\XMLcopy.exe
-Z:\Visual Studio Projects\Projects\XMLcopy\XMLcopy\obj\Debug\XMLcopy.pdb
-Z:\Visual Studio Projects\Projects\XMLcopy\XMLcopy\bin\Debug\XMLcopy.exe
-Z:\Visual Studio Projects\Projects\XMLcopy\XMLcopy\bin\Debug\XMLcopy.pdb
-Z:\Visual Studio Projects\Projects\XMLcopy\XMLcopy\obj\Debug\ResolveAssemblyReference.cache

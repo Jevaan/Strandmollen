@@ -1,9 +1,0 @@
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\obj\Debug\MedBatch.Form1.resources
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\obj\Debug\BatchFO.csproj.GenerateResource.Cache
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\bin\Debug\BatchFO.exe
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\bin\Debug\BatchFO.pdb
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\obj\Debug\BatchFO.Properties.Resources.resources
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\obj\Debug\BatchFO.exe
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\obj\Debug\BatchFO.pdb
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\bin\Debug\printers.ini
-Z:\Visual Studio Projects\Projects\MedBatchFO\MedBatch\obj\Debug\BatchFO.csprojResolveAssemblyReference.cache

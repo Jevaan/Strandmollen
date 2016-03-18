@@ -1,8 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\MedBatch.Form1.resources
-obj\Debug\MedBatch.Properties.Resources.resources
-obj\Debug\MedBatch.csproj.GenerateResource.Cache
-bin\Debug\MedBatch.exe
-bin\Debug\MedBatch.pdb
-obj\Debug\MedBatch.exe
-obj\Debug\MedBatch.pdb

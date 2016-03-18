@@ -1,9 +1,0 @@
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\bin\Debug\Export CE.exe
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\bin\Debug\Export CE.pdb
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\bin\Debug\System.Data.SqlServerCe.dll
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\obj\Debug\ResolveAssemblyReference.cache
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\obj\Debug\Export_CE.Export.resources
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\obj\Debug\Export_CE.Properties.Resources.resources
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\obj\Debug\Export CE.csproj.GenerateResource.Cache
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\obj\Debug\Export CE.exe
-Z:\Visual Studio Projects\Projects\Flaske Registrering CE\Export CE\obj\Debug\Export CE.pdb
