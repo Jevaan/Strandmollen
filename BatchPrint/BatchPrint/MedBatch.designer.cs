@@ -297,7 +297,7 @@
             // tbBatchID
             // 
             this.tbBatchID.Location = new System.Drawing.Point(97, 47);
-            this.tbBatchID.MaxLength = 5;
+            this.tbBatchID.MaxLength = 8;
             this.tbBatchID.Name = "tbBatchID";
             this.tbBatchID.Size = new System.Drawing.Size(84, 20);
             this.tbBatchID.TabIndex = 1;

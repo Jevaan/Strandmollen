@@ -261,7 +261,7 @@ namespace BatchPrint
                 tbBatchID.MaxLength = 9;
                 
             }
-            if (cbBatch.Text == "Pharmaline" || cbBatch.SelectedIndex == 9)
+            if (cbBatch.Text == "Pharmaline" || cbBatch.SelectedIndex == 9 || cbBatch.SelectedIndex < 3)
             {
                 tbBatchID.MaxLength = 8;
                
